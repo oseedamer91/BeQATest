@@ -1,0 +1,13 @@
+com\api\proj\beAutomationTest\BeTest.class
+model\login\LoginUser.class
+model\UserType.class
+model\Result.class
+controller\RestController.class
+model\register\RegisterUser.class
+model\register\RegisteredUser.class
+service\RestService.class
+model\Country.class
+com\api\proj\beAutomationTest\AppTest.class
+utils\EnumEndPoint.class
+model\login\LoggedInUser.class
+model\User.class
